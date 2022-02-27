@@ -1,0 +1,17 @@
+C:\Users\cieciara\source\repos\Selenium\ZaliczenieCieciara\bin\Debug\wires-0.6.0-win.exe
+C:\Users\cieciara\source\repos\Selenium\ZaliczenieCieciara\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\cieciara\source\repos\Selenium\ZaliczenieCieciara\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\cieciara\source\repos\Selenium\ZaliczenieCieciara\bin\Debug\nunit.engine.dll
+C:\Users\cieciara\source\repos\Selenium\ZaliczenieCieciara\bin\Debug\nunit.engine.api.dll
+C:\Users\cieciara\source\repos\Selenium\ZaliczenieCieciara\bin\Debug\nunit.engine.core.dll
+C:\Users\cieciara\source\repos\Selenium\ZaliczenieCieciara\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\cieciara\source\repos\Selenium\ZaliczenieCieciara\bin\Debug\ZaliczenieCieciara.dll
+C:\Users\cieciara\source\repos\Selenium\ZaliczenieCieciara\bin\Debug\ZaliczenieCieciara.pdb
+C:\Users\cieciara\source\repos\Selenium\ZaliczenieCieciara\bin\Debug\nunit.framework.dll
+C:\Users\cieciara\source\repos\Selenium\ZaliczenieCieciara\bin\Debug\WebDriver.dll
+C:\Users\cieciara\source\repos\Selenium\ZaliczenieCieciara\bin\Debug\WebDriver.Support.dll
+C:\Users\cieciara\source\repos\Selenium\ZaliczenieCieciara\bin\Debug\nunit.framework.xml
+C:\Users\cieciara\source\repos\Selenium\ZaliczenieCieciara\obj\Debug\ZaliczenieCieciara.csproj.CoreCompileInputs.cache
+C:\Users\cieciara\source\repos\Selenium\ZaliczenieCieciara\obj\Debug\ZaliczenieCieciara.csproj.CopyComplete
+C:\Users\cieciara\source\repos\Selenium\ZaliczenieCieciara\obj\Debug\ZaliczenieCieciara.dll
+C:\Users\cieciara\source\repos\Selenium\ZaliczenieCieciara\obj\Debug\ZaliczenieCieciara.pdb
